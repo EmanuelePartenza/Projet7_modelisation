@@ -1,0 +1,6 @@
+.ipynb_checkpoints/*
+__pycache__/*
+FastAPI/*
+input_datasets/*
+mlruns/*
+output_datasets/*
